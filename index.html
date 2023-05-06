@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="/aswaniSivadas/project1/libs/css/stylesheet.css">
+  <body>
+    <div class="container mt-3 divText">
+      Select your country 
+      <select id="countryDropdown"  class="form-select form-select-lg header-container">   
+     
+      </select>
+    </div>
+<div id="googleMap" style="width:100%;height:100vh"></div>
+
+<div id="id01" class="w3-modal">
+  <div class="w3-modal-content">
+    <header class="w3-container w3-teal"> 
+      <span onclick="document.getElementById('id01').style.display='none'" 
+      class="w3-button w3-display-topright">&times;</span>
+      <h3 id="countryName"></h3>
+    </header>
+    <div class="w3-container">
+      <p id="humdity"></p>
+      <p id="tempC"></p>
+      <p id="tempF"></p>
+      <p id="localTime"></p>
+      <p id="timeZone"></p>
+    </div>
+    <footer class="w3-container w3-teal">
+      <p id="lastUpdated"></p>
+    </footer>
+  </div>
+</div>
+
+<script>
+function myMap() {
+var mapProp= {
+  center:new google.maps.LatLng(51.508742,-0.120850),
+  zoom:4,
+};
+var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+}
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyApUO83k5Uaz59YKCYZCAgOEpO6TiM5MDE&callback=myMap"></script>
+<script type="application/javascript" src="/aswaniSivadas/project1/libs/js/jquery-2.2.3.min.js"></script>
+<script src="/aswaniSivadas/project1/libs/js/script.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+</body>
+</html>

@@ -1,0 +1,1252 @@
+[
+    {
+      "countryName": "Andorra",
+      "countryCode": "AD",
+      "placeId": "ChIJlfCemC71pRIRkn_qeNc-yQc"
+    },
+    {
+      "countryName": "United Arab Emirates",
+      "countryCode": "AE",
+      "placeId": "ChIJvRKrsd9IXj4RpwoIwFYv0zM"
+    },
+    {
+      "countryName": "Afghanistan",
+      "countryCode": "AF",
+      "placeId": "ChIJbQL_-LZu0TgReNqWvg1GtfM"
+    },
+    {
+      "countryName": "Antigua and Barbuda",
+      "countryCode": "AG",
+      "placeId": "ChIJwdG4bbluDYwRlHmL4Yg3aic"
+    },
+    {
+      "countryName": "Anguilla",
+      "countryCode": "AI",
+      "placeId": "ChIJ5QHvjnRjDowRgdTghNNqnTs"
+    },
+    {
+      "countryName": "Albania",
+      "countryCode": "AL",
+      "placeId": "ChIJLUwnvfM7RRMR7juY1onlfAc"
+    },
+    {
+      "countryName": "Armenia",
+      "countryCode": "AM",
+      "placeId": "ChIJx7pz54RWFUARIy2C63p1tNA"
+    },
+    {
+      "countryName": "Angola",
+      "countryCode": "AO",
+      "placeId": "ChIJJ4utyk7yURoRPU5KDZ0oClk"
+    },
+    {
+      "countryName": "Antarctica",
+      "countryCode": "AQ",
+      "placeId": "ChIJS3WQM3uWuaQRdSAPdB--Um4"
+    },
+    {
+      "countryName": "Argentina",
+      "countryCode": "AR",
+      "placeId": "ChIJZ8b99fXKvJURqA_wKpl3Lz0"
+    },
+    {
+      "countryName": "American Samoa",
+      "countryCode": "AS",
+      "placeId": "ChIJyf1IkreEpnER3UuuLZ5z7vM"
+    },
+    {
+      "countryName": "Austria",
+      "countryCode": "AT",
+      "placeId": "ChIJfyqdJZsHbUcRr8Hk3XvUEhA"
+    },
+    {
+      "countryName": "Australia",
+      "countryCode": "AU",
+      "placeId": "ChIJ38WHZwf9KysRUhNblaFnglM"
+    },
+    {
+      "countryName": "Aruba",
+      "countryCode": "AW",
+      "placeId": "ChIJ23da4s84hY4RL4yBiT6KavE"
+    },
+    {
+      "countryName": "Åland",
+      "countryCode": "AX",
+      "placeId": "ChIJGevhxGjkikYR7Y5Cc4P2Q80"
+    },
+    {
+      "countryName": "Azerbaijan",
+      "countryCode": "AZ",
+      "placeId": "ChIJ3x2iGtl8MEARCM2DPmtSyeY"
+    },
+    {
+      "countryName": "Bosnia and Herzegovina",
+      "countryCode": "BA",
+      "placeId": "ChIJ16k3xxWiSxMRDOm3QwPi920"
+    },
+    {
+      "countryName": "Barbados",
+      "countryCode": "BB",
+      "placeId": "ChIJoxoyrvvxQ4wRKzb0jLNR7A4"
+    },
+    {
+      "countryName": "Bangladesh",
+      "countryCode": "BD",
+      "placeId": "ChIJp4vhgO2qrTARa_zhxOAoLQ8"
+    },
+    {
+      "countryName": "Belgium",
+      "countryCode": "BE",
+      "placeId": "ChIJl5fz7WR9wUcR8g_mObTy60c"
+    },
+    {
+      "countryName": "Burkina Faso",
+      "countryCode": "BF",
+      "placeId": "ChIJm3Cm1SbKLQ4Rq22DRu0Kkyc"
+    },
+    {
+      "countryName": "Bulgaria",
+      "countryCode": "BG",
+      "placeId": "ChIJifBbyMH-qEAREEy_aRKgAAA"
+    },
+    {
+      "countryName": "Bahrain",
+      "countryCode": "BH",
+      "placeId": "ChIJEaJHak5SSD4RRhDa2-JQlC4"
+    },
+    {
+      "countryName": "Burundi",
+      "countryCode": "BI",
+      "placeId": "ChIJW_FUNtNEwRkRjewxVg5NI7E"
+    },
+    {
+      "countryName": "Benin",
+      "countryCode": "BJ",
+      "placeId": "ChIJlVZ6BCtUIxAR9S5iy_h3suw"
+    },
+    {
+      "countryName": "Saint Barthélemy",
+      "countryCode": "BL",
+      "placeId": "ChIJnej-KlR1DowR5nUq6msRdAE"
+    },
+    {
+      "countryName": "Bermuda",
+      "countryCode": "BM",
+      "placeId": "ChIJpbBohp4TLYoRvLiZLMf93zw"
+    },
+    {
+      "countryName": "Brunei",
+      "countryCode": "BN",
+      "placeId": "ChIJ0bm4BEuZGDIR1toJ3YA1_l0"
+    },
+    {
+      "countryName": "Bolivia",
+      "countryCode": "BO",
+      "placeId": "ChIJlaK7d4nfXpERv-0VAbvCnhw"
+    },
+    {
+      "countryName": "Bonaire, Sint Eustatius, and Saba",
+      "countryCode": "BQ",
+      "placeId": "ChIJt7kdj4sYIowRz7WDIdc1beE"
+    },
+    {
+      "countryName": "Brazil",
+      "countryCode": "BR",
+      "placeId": "ChIJzyjM68dZnAARYz4p8gYVWik"
+    },
+    {
+      "countryName": "Bahamas",
+      "countryCode": "BS",
+      "placeId": "ChIJPQ9Isjua1ogR5XnHaoO0PhM"
+    },
+    {
+      "countryName": "Bhutan",
+      "countryCode": "BT",
+      "placeId": "ChIJz5XFc6WSWzcR2rw2KGWsDLs"
+    },
+    {
+      "countryName": "Bouvet Island",
+      "countryCode": "BV",
+      "placeId": "ChIJP747leE0g7cRS7j-ENe4oLY"
+    },
+    {
+      "countryName": "Botswana",
+      "countryCode": "BW",
+      "placeId": "ChIJESJF0SFDpB4Re68Vhyp8ZPE"
+    },
+    {
+      "countryName": "Belarus",
+      "countryCode": "BY",
+      "placeId": "ChIJgUit4oQl2kYREIzsgdGhAAA"
+    },
+    {
+      "countryName": "Belize",
+      "countryCode": "BZ",
+      "placeId": "ChIJ-foSwT5bXI8RTuMeP02KSvY"
+    },
+    {
+      "countryName": "Canada",
+      "countryCode": "CA",
+      "placeId": "ChIJ2WrMN9MDDUsRpY9Doiq3aJk"
+    },
+    {
+      "countryName": "Cocos (Keeling) Islands",
+      "countryCode": "CC",
+      "placeId": "ChIJwWnofonFDi8Rpp_jEPBC0ds"
+    },
+    {
+      "countryName": "DR Congo",
+      "countryCode": "CD",
+      "placeId": "ChIJvUZ1ms_6eRkRQfGTrF4-xgQ"
+    },
+    {
+      "countryName": "Central African Republic",
+      "countryCode": "CF",
+      "placeId": "ChIJt6KGjVPpuBARJIBcWgLGm7g"
+    },
+    {
+      "countryName": "Congo Republic",
+      "countryCode": "CG",
+      "placeId": "ChIJLbInE72FSxYRBvalD5rtddo"
+    },
+    {
+      "countryName": "Switzerland",
+      "countryCode": "CH",
+      "placeId": "ChIJYW1Zb-9kjEcRFXvLDxG1Vlw"
+    },
+    {
+      "countryName": "Ivory Coast",
+      "countryCode": "CI",
+      "placeId": "ChIJZ6BJsIcTlg8RQO65fGIe-QE"
+    },
+    {
+      "countryName": "Cook Islands",
+      "countryCode": "CK",
+      "placeId": "ChIJ3d57ue-KVHER2LQIiA6lTAI"
+    },
+    {
+      "countryName": "Chile",
+      "countryCode": "CL",
+      "placeId": "ChIJL68lBEHFYpYRHbkCERPhBQU"
+    },
+    {
+      "countryName": "Cameroon",
+      "countryCode": "CM",
+      "placeId": "ChIJIQ8-cFM3YRARU5uCmUXEAys"
+    },
+    {
+      "countryName": "China",
+      "countryCode": "CN",
+      "placeId": "ChIJwULG5WSOUDERbzafNHyqHZU"
+    },
+    {
+      "countryName": "Colombia",
+      "countryCode": "CO",
+      "placeId": "ChIJo5QVrjqkFY4RQKPy7wSaDZo"
+    },
+    {
+      "countryName": "Costa Rica",
+      "countryCode": "CR",
+      "placeId": "ChIJJcmsIWLlko8RK5qBNSX3VGI"
+    },
+    {
+      "countryName": "Cuba",
+      "countryCode": "CU",
+      "placeId": "ChIJtUx6DwdJzYgRGqQQkVL3jHk"
+    },
+    {
+      "countryName": "Cabo Verde",
+      "countryCode": "CV",
+      "placeId": "ChIJMVERWSGPNQkRH-oY-TbyGms"
+    },
+    {
+      "countryName": "Curaçao",
+      "countryCode": "CW",
+      "placeId": "ChIJx_3HYr6dhI4RI0fG2yiSf_w"
+    },
+    {
+      "countryName": "Christmas Island",
+      "countryCode": "CX",
+      "placeId": "ChIJz6fA4yea9S4RFup1BAnW5xU"
+    },
+    {
+      "countryName": "Cyprus",
+      "countryCode": "CY",
+      "placeId": "ChIJVU1JymcX3hQRbhTEf4A8TDI"
+    },
+    {
+      "countryName": "Czechia",
+      "countryCode": "CZ",
+      "placeId": "ChIJQ4Ld14-UC0cRb1jb03UcZvg"
+    },
+    {
+      "countryName": "Germany",
+      "countryCode": "DE",
+      "placeId": "ChIJa76xwh5ymkcRW-WRjmtd6HU"
+    },
+    {
+      "countryName": "Djibouti",
+      "countryCode": "DJ",
+      "placeId": "ChIJAfb5NGfUIhYRiFsP76e7chQ"
+    },
+    {
+      "countryName": "Denmark",
+      "countryCode": "DK",
+      "placeId": "ChIJ-1-U7rYnS0YRzZLgw9BDh1I"
+    },
+    {
+      "countryName": "Dominica",
+      "countryCode": "DM",
+      "placeId": "ChIJFVoV8vrSFIwRPP06BQmRs0k"
+    },
+    {
+      "countryName": "Dominican Republic",
+      "countryCode": "DO",
+      "placeId": "ChIJ9bbx3jiIr44R4PcNBiQPAqY"
+    },
+    {
+      "countryName": "Algeria",
+      "countryCode": "DZ",
+      "placeId": "ChIJ0XsDKGqKfg0RovjXq-O-QHE"
+    },
+    {
+      "countryName": "Ecuador",
+      "countryCode": "EC",
+      "placeId": "ChIJ1UuaqN2HI5ARAjecEQSvdp0"
+    },
+    {
+      "countryName": "Estonia",
+      "countryCode": "EE",
+      "placeId": "ChIJ_UuggpyUkkYRwyW0T7qf6kA"
+    },
+    {
+      "countryName": "Egypt",
+      "countryCode": "EG",
+      "placeId": "ChIJ6TZcw3aJNhQRRMTEJQmgRSw"
+    },
+    {
+      "countryName": "Western Sahara",
+      "countryCode": "EH",
+      "placeId": "ChIJfVPAk6HEw0cRovXaO1CYREM"
+    },
+    {
+      "countryName": "Eritrea",
+      "countryCode": "ER",
+      "placeId": "ChIJZYW6nT9abRYR-g4SL_AIwhc"
+    },
+    {
+      "countryName": "Spain",
+      "countryCode": "ES",
+      "placeId": "ChIJi7xhMnjjQgwR7KNoB5Qs7KY"
+    },
+    {
+      "countryName": "Ethiopia",
+      "countryCode": "ET",
+      "placeId": "ChIJK_1s3c7QNRYRWsVIU3-m9ns"
+    },
+    {
+      "countryName": "Finland",
+      "countryCode": "FI",
+      "placeId": "ChIJ3fYyS9_KgUYREKh1PNZGAQA"
+    },
+    {
+      "countryName": "Fiji",
+      "countryCode": "FJ",
+      "placeId": "ChIJXdw8cP2QGW4Rk1vvRpkxnJ4"
+    },
+    {
+      "countryName": "Falkland Islands",
+      "countryCode": "FK",
+      "placeId": "ChIJo-ORRLmJKrwROsXZjf-qKjI"
+    },
+    {
+      "countryName": "Micronesia",
+      "countryCode": "FM",
+      "placeId": "ChIJE8hYrMW12WURJWWk-s2NelQ"
+    },
+    {
+      "countryName": "Faroe Islands",
+      "countryCode": "FO",
+      "placeId": "ChIJ6_ktdpMVvEgRJBv3ZEgxsD8"
+    },
+    {
+      "countryName": "France",
+      "countryCode": "FR",
+      "placeId": "ChIJMVd4MymgVA0R99lHx5Y__Ws"
+    },
+    {
+      "countryName": "Gabon",
+      "countryCode": "GA",
+      "placeId": "ChIJ7fM4VIo7fxARFWt4Ng7DDHs"
+    },
+    {
+      "countryName": "United Kingdom",
+      "countryCode": "GB",
+      "placeId": "ChIJqZHHQhE7WgIReiWIMkOg-MQ"
+    },
+    {
+      "countryName": "Grenada",
+      "countryCode": "GD",
+      "placeId": "ChIJ0XuH9IkXOIwRjk8fWgHH2DY"
+    },
+    {
+      "countryName": "Georgia",
+      "countryCode": "GE",
+      "placeId": "ChIJa2JP5tcMREARwkotEmR5kE8"
+    },
+    {
+      "countryName": "French Guiana",
+      "countryCode": "GF",
+      "placeId": "ChIJU9f3hVcVEo0RRvQKD-n3J94"
+    },
+    {
+      "countryName": "Guernsey",
+      "countryCode": "GG",
+      "placeId": "ChIJ7bO_9OQgDUgRmZgNXYrVCpk"
+    },
+    {
+      "countryName": "Ghana",
+      "countryCode": "GH",
+      "placeId": "ChIJx9baqM1a1w8RNtKT0DDy11Q"
+    },
+    {
+      "countryName": "Gibraltar",
+      "countryCode": "GI",
+      "placeId": "ChIJNb4UJ3a_DA0RD4cANiYlTjg"
+    },
+    {
+      "countryName": "Greenland",
+      "countryCode": "GL",
+      "placeId": "ChIJFXfA47sNok4RGOIUAYOdzzQ"
+    },
+    {
+      "countryName": "The Gambia",
+      "countryCode": "GM",
+      "placeId": "ChIJBzivZSmcwg4RKp0Ta0BMSp4"
+    },
+    {
+      "countryName": "Guinea",
+      "countryCode": "GN",
+      "placeId": "ChIJP5XOvCGzAQ8R9i1a18t7c-g"
+    },
+    {
+      "countryName": "Guadeloupe",
+      "countryCode": "GP",
+      "placeId": "ChIJUX0od1p1DowRqwdKtzc-vuw"
+    },
+    {
+      "countryName": "Equatorial Guinea",
+      "countryCode": "GQ",
+      "placeId": "ChIJp4euX2A6ZBARet4QLKKicMg"
+    },
+    {
+      "countryName": "Greece",
+      "countryCode": "GR",
+      "placeId": "ChIJY2xxEcdKWxMRHS2a3HUXOjY"
+    },
+    {
+      "countryName": "South Georgia and South Sandwich Islands",
+      "countryCode": "GS",
+      "placeId": "ChIJJXmoUuK2PbkRvbBNiNp8434"
+    },
+    {
+      "countryName": "Guatemala",
+      "countryCode": "GT",
+      "placeId": "ChIJa1DnNlATiIURu9WEWzcrmDU"
+    },
+    {
+      "countryName": "Guam",
+      "countryCode": "GU",
+      "placeId": "ChIJ7yQPk_92H2cRpuWzxZGucVU"
+    },
+    {
+      "countryName": "Guinea-Bissau",
+      "countryCode": "GW",
+      "placeId": "ChIJ8amCr3Q85A4RTggeVz-O6Ls"
+    },
+    {
+      "countryName": "Guyana",
+      "countryCode": "GY",
+      "placeId": "ChIJs8LYYK_vr40RQETltmeI40g"
+    },
+    {
+      "countryName": "Hong Kong",
+      "countryCode": "HK",
+      "placeId": "ChIJD5gyo-3iAzQRfMnq27qzivA"
+    },
+    {
+      "countryName": "Heard and McDonald Islands",
+      "countryCode": "HM",
+      "placeId": "ChIJ_SuSiEtSAbMRfnaz5cLaHSY"
+    },
+    {
+      "countryName": "Honduras",
+      "countryCode": "HN",
+      "placeId": "ChIJzzG3cxp1ao8RZIL7toLe0X4"
+    },
+    {
+      "countryName": "Croatia",
+      "countryCode": "HR",
+      "placeId": "ChIJ7ZXdCghBNBMRfxtm4STA86A"
+    },
+    {
+      "countryName": "Haiti",
+      "countryCode": "HT",
+      "placeId": "ChIJEbvLf_PGto4R0_ZUTLI4FLU"
+    },
+    {
+      "countryName": "Hungary",
+      "countryCode": "HU",
+      "placeId": "ChIJw-Q333uDQUcREBAeDCnEAAA"
+    },
+    {
+      "countryName": "Indonesia",
+      "countryCode": "ID",
+      "placeId": "ChIJtwRkSdcHTCwRhfStG-dNe-M"
+    },
+    {
+      "countryName": "Ireland",
+      "countryCode": "IE",
+      "placeId": "ChIJ-ydAXOS6WUgRCPTbzjQSfM8"
+    },
+    {
+      "countryName": "Israel",
+      "countryCode": "IL",
+      "placeId": "ChIJi8mnMiRJABURuiw1EyBCa2o"
+    },
+    {
+      "countryName": "Isle of Man",
+      "countryCode": "IM",
+      "placeId": "ChIJ1YEuRDCFY0gRDeDw8bxbAuo"
+    },
+    {
+      "countryName": "India",
+      "countryCode": "IN",
+      "placeId": "ChIJkbeSa_BfYzARphNChaFPjNc"
+    },
+    {
+      "countryName": "British Indian Ocean Territory",
+      "countryCode": "IO",
+      "placeId": "ChIJh6OdhOBzkiQR4WsfEHBkT6k"
+    },
+    {
+      "countryName": "Iraq",
+      "countryCode": "IQ",
+      "placeId": "ChIJEUr1VD2CVxURAhYGorthpW0"
+    },
+    {
+      "countryName": "Iran",
+      "countryCode": "IR",
+      "placeId": "ChIJ8R1rwS7s9z4RzvpRntOVsEA"
+    },
+    {
+      "countryName": "Iceland",
+      "countryCode": "IS",
+      "placeId": "ChIJQ2Dro1Ir0kgRmkXB5TQEim8"
+    },
+    {
+      "countryName": "Italy",
+      "countryCode": "IT",
+      "placeId": "ChIJA9KNRIL-1BIRb15jJFz1LOI"
+    },
+    {
+      "countryName": "Jersey",
+      "countryCode": "JE",
+      "placeId": "ChIJM3WSjKRSDEgRw2waCqMjnFE"
+    },
+    {
+      "countryName": "Jamaica",
+      "countryCode": "JM",
+      "placeId": "ChIJnXHPxhsq2o4R-g4StcDRoFk"
+    },
+    {
+      "countryName": "Jordan",
+      "countryCode": "JO",
+      "placeId": "ChIJmd5kZkdvABURmU4mUQdbKI0"
+    },
+    {
+      "countryName": "Japan",
+      "countryCode": "JP",
+      "placeId": "ChIJLxl_1w9OZzQRRFJmfNR1QvU"
+    },
+    {
+      "countryName": "Kenya",
+      "countryCode": "KE",
+      "placeId": "ChIJD5BQg9CAJxgR2W2XobAOO0A"
+    },
+    {
+      "countryName": "Kyrgyzstan",
+      "countryCode": "KG",
+      "placeId": "ChIJ8yfp_B04lzgRM8SITrdYECg"
+    },
+    {
+      "countryName": "Cambodia",
+      "countryCode": "KH",
+      "placeId": "ChIJQzfc1L-HBzERUxL0ieC_t-Q"
+    },
+    {
+      "countryName": "Kiribati",
+      "countryCode": "KI",
+      "placeId": "ChIJA4cCwpF8ZGURB8NSAQR9MoQ"
+    },
+    {
+      "countryName": "Comoros",
+      "countryCode": "KM",
+      "placeId": "ChIJjaQIZAPjmBgR29Tf5L5_Cvc"
+    },
+    {
+      "countryName": "St Kitts and Nevis",
+      "countryCode": "KN",
+      "placeId": "ChIJDXKKxm4ZEowR6IYdmsaa6d4"
+    },
+    {
+      "countryName": "North Korea",
+      "countryCode": "KP",
+      "placeId": "ChIJN0NP5toCfjURHIYdPhyHCzo"
+    },
+    {
+      "countryName": "South Korea",
+      "countryCode": "KR",
+      "placeId": "ChIJm7oRy-tVZDURS9uIugCbJJE"
+    },
+    {
+      "countryName": "Kuwait",
+      "countryCode": "KW",
+      "placeId": "ChIJoVHqvj82xT8R0u3Yks1rcnQ"
+    },
+    {
+      "countryName": "Cayman Islands",
+      "countryCode": "KY",
+      "placeId": "ChIJKaq4Lz6GJY8RXnFwh9PERXA"
+    },
+    {
+      "countryName": "Kazakhstan",
+      "countryCode": "KZ",
+      "placeId": "ChIJR6n87AcQqTgRGw6z5C-Ee18"
+    },
+    {
+      "countryName": "Laos",
+      "countryCode": "LA",
+      "placeId": "ChIJiUWCsFeQFDERgc2ZH0iSxQ4"
+    },
+    {
+      "countryName": "Lebanon",
+      "countryCode": "LB",
+      "placeId": "ChIJraoihAIXHxURcPkAbAk0fcw"
+    },
+    {
+      "countryName": "Saint Lucia",
+      "countryCode": "LC",
+      "placeId": "ChIJHaMt8WVgQIwR9Z056MSGdG4"
+    },
+    {
+      "countryName": "Liechtenstein",
+      "countryCode": "LI",
+      "placeId": "ChIJ_S9HHUQxm0cRibFa3Ta16mA"
+    },
+    {
+      "countryName": "Sri Lanka",
+      "countryCode": "LK",
+      "placeId": "ChIJnR5a9jxZ4joRjNPiALSkPeE"
+    },
+    {
+      "countryName": "Liberia",
+      "countryCode": "LR",
+      "placeId": "ChIJwfyp1AP4CQ8Rc2PRMmso038"
+    },
+    {
+      "countryName": "Lesotho",
+      "countryCode": "LS",
+      "placeId": "ChIJ64xf1idIjB4Rsx7ReLhXLSM"
+    },
+    {
+      "countryName": "Lithuania",
+      "countryCode": "LT",
+      "placeId": "ChIJE74zDxSU3UYRubpdpdNUCvM"
+    },
+    {
+      "countryName": "Luxembourg",
+      "countryCode": "LU",
+      "placeId": "ChIJRyEhyrlFlUcR75LTAvZg22Q"
+    },
+    {
+      "countryName": "Latvia",
+      "countryCode": "LV",
+      "placeId": "ChIJ_ZqKe2cw6UYREPzyaM3PAAA"
+    },
+    {
+      "countryName": "Libya",
+      "countryCode": "LY",
+      "placeId": "ChIJDQHOjtmSqBMRKsL5x0FgB_o"
+    },
+    {
+      "countryName": "Morocco",
+      "countryCode": "MA",
+      "placeId": "ChIJjcVRlmGICw0Rw_8sxIGT09k"
+    },
+    {
+      "countryName": "Monaco",
+      "countryCode": "MC",
+      "placeId": "ChIJMYU_e2_CzRIR_JzEOkx493Q"
+    },
+    {
+      "countryName": "Moldova",
+      "countryCode": "MD",
+      "placeId": "ChIJoWm3KDZ8yUARy6xT36wZgSU"
+    },
+    {
+      "countryName": "Montenegro",
+      "countryCode": "ME",
+      "placeId": "ChIJyx8sJBcyTBMRRtP_boadTDg"
+    },
+    {
+      "countryName": "Saint Martin",
+      "countryCode": "MF",
+      "placeId": "ChIJ_U5xCKxvDowRp4huTgqDGbk"
+    },
+    {
+      "countryName": "Madagascar",
+      "countryCode": "MG",
+      "placeId": "ChIJRYUj6uOk0SERiBN7l8HjRFI"
+    },
+    {
+      "countryName": "Marshall Islands",
+      "countryCode": "MH",
+      "placeId": "ChIJK8opIbIZAWURdrcJqugDPos"
+    },
+    {
+      "countryName": "North Macedonia",
+      "countryCode": "MK",
+      "placeId": "ChIJCUi8cJ8VVBMRscUfyNZa8uA"
+    },
+    {
+      "countryName": "Mali",
+      "countryCode": "ML",
+      "placeId": "ChIJz3MQG4g-FA4RgM-9oOJbOrs"
+    },
+    {
+      "countryName": "Myanmar",
+      "countryCode": "MM",
+      "placeId": "ChIJBylOcadSVjAREStiHOQOe7o"
+    },
+    {
+      "countryName": "Mongolia",
+      "countryCode": "MN",
+      "placeId": "ChIJS22qaQYFJzYRluDmNzkh3eA"
+    },
+    {
+      "countryName": "Macao",
+      "countryCode": "MO",
+      "placeId": "ChIJ88g14uB6ATQR9qyFtCzje8Y"
+    },
+    {
+      "countryName": "Northern Mariana Islands",
+      "countryCode": "MP",
+      "placeId": "ChIJUVyZkDSx2GYRMg46fKvrt50"
+    },
+    {
+      "countryName": "Martinique",
+      "countryCode": "MQ",
+      "placeId": "ChIJDQdmAPmgaowRsOevFxIbAOE"
+    },
+    {
+      "countryName": "Mauritania",
+      "countryCode": "MR",
+      "placeId": "ChIJTzmzFMO4gA4RTlO-1usLIoM"
+    },
+    {
+      "countryName": "Montserrat",
+      "countryCode": "MS",
+      "placeId": "ChIJnTbH4VOrE4wRorEFiIPqDx4"
+    },
+    {
+      "countryName": "Malta",
+      "countryCode": "MT",
+      "placeId": "ChIJxUeGHShFDhMROUK-NmHYgvU"
+    },
+    {
+      "countryName": "Mauritius",
+      "countryCode": "MU",
+      "placeId": "ChIJyXRE-U1QfCERMdBrEcLZA0I"
+    },
+    {
+      "countryName": "Maldives",
+      "countryCode": "MV",
+      "placeId": "ChIJvXv7qr-ZtSQRiWKVgeEJRUE"
+    },
+    {
+      "countryName": "Malawi",
+      "countryCode": "MW",
+      "placeId": "ChIJ18ATk91b2BgRQ4VmKRcuo0Q"
+    },
+    {
+      "countryName": "Mexico",
+      "countryCode": "MX",
+      "placeId": "ChIJU1NoiDs6BIQREZgJa760ZO0"
+    },
+    {
+      "countryName": "Malaysia",
+      "countryCode": "MY",
+      "placeId": ""
+    },
+    {
+      "countryName": "Mozambique",
+      "countryCode": "MZ",
+      "placeId": "ChIJxUr95uqs1BgRFaEWrrm_uxI"
+    },
+    {
+      "countryName": "Namibia",
+      "countryCode": "NA",
+      "placeId": "ChIJIXXTbn489RsRYbLsqKXludM"
+    },
+    {
+      "countryName": "New Caledonia",
+      "countryCode": "NC",
+      "placeId": "ChIJyzIaP2niJ2wR7HqT1Y_20PY"
+    },
+    {
+      "countryName": "Niger",
+      "countryCode": "NE",
+      "placeId": "ChIJXa-hxnrsmRER1CSOFQqSM8k"
+    },
+    {
+      "countryName": "Norfolk Island",
+      "countryCode": "NF",
+      "placeId": "ChIJOcm6rR_RS2wRUhVdMyOYerk"
+    },
+    {
+      "countryName": "Nigeria",
+      "countryCode": "NG",
+      "placeId": "ChIJDY2kfa8LThARyAvFaEH-qJk"
+    },
+    {
+      "countryName": "Nicaragua",
+      "countryCode": "NI",
+      "placeId": "ChIJzSL_zgDCEI8RtRWsP-Wn-sg"
+    },
+    {
+      "countryName": "Netherlands",
+      "countryCode": "NL",
+      "placeId": "ChIJu-SH28MJxkcRnwq9_851obM"
+    },
+    {
+      "countryName": "Norway",
+      "countryCode": "NO",
+      "placeId": "ChIJv-VNj0VoEkYRK9BkuJ07sKE"
+    },
+    {
+      "countryName": "Nepal",
+      "countryCode": "NP",
+      "placeId": "ChIJz2gufcfolTkR3obM0LyaojQ"
+    },
+    {
+      "countryName": "Nauru",
+      "countryCode": "NR",
+      "placeId": "ChIJTVvkHR8cfW8RgQrUxfSd2Vk"
+    },
+    {
+      "countryName": "Niue",
+      "countryCode": "NU",
+      "placeId": "ChIJO7duNyolnXERGIvcezR4QpE"
+    },
+    {
+      "countryName": "New Zealand",
+      "countryCode": "NZ",
+      "placeId": "ChIJh5Z3Fw4gLG0RM0dqdeIY1rE"
+    },
+    {
+      "countryName": "Oman",
+      "countryCode": "OM",
+      "placeId": "ChIJv5vVqWaf1j0RF6ixZXZMBjo"
+    },
+    {
+      "countryName": "Panama",
+      "countryCode": "PA",
+      "placeId": "ChIJ4yu-yIMVpo8Rz5ulH03g7nk"
+    },
+    {
+      "countryName": "Peru",
+      "countryCode": "PE",
+      "placeId": "ChIJ9RRZwFDIBZERSAYheRIBnvI"
+    },
+    {
+      "countryName": "French Polynesia",
+      "countryCode": "PF",
+      "placeId": "ChIJTddtfNB1GHQREVfDCXp6wJs"
+    },
+    {
+      "countryName": "Papua New Guinea",
+      "countryCode": "PG",
+      "placeId": "ChIJr54Ov6_oWWgRehKcjg3l8No"
+    },
+    {
+      "countryName": "Philippines",
+      "countryCode": "PH",
+      "placeId": "ChIJY96HXyFTQDIRV9opeu-QR3g"
+    },
+    {
+      "countryName": "Pakistan",
+      "countryCode": "PK",
+      "placeId": "ChIJH3X9-NJS2zgRXJIU5veht0Y"
+    },
+    {
+      "countryName": "Poland",
+      "countryCode": "PL",
+      "placeId": "ChIJuwtkpGSZAEcR6lXMScpzdQk"
+    },
+    {
+      "countryName": "Saint Pierre and Miquelon",
+      "countryCode": "PM",
+      "placeId": "ChIJ0VcO-0tLbEsREVxs6jdncZw"
+    },
+    {
+      "countryName": "Pitcairn Islands",
+      "countryCode": "PN",
+      "placeId": "ChIJiweo3H8POJ4RyJoVGceMnEY"
+    },
+    {
+      "countryName": "Puerto Rico",
+      "countryCode": "PR",
+      "placeId": "ChIJ-aeSGyaWAowRGpsEGCjsNvM"
+    },
+    {
+      "countryName": "Palestine",
+      "countryCode": "PS",
+      "placeId": "ChIJ2b1miNLyHBURhvZm0QGgF-4"
+    },
+    {
+      "countryName": "Portugal",
+      "countryCode": "PT",
+      "placeId": "ChIJ1SZCvy0kMgsRQfBOHAlLuCo"
+    },
+    {
+      "countryName": "Palau",
+      "countryCode": "PW",
+      "placeId": "ChIJmQOvorRFhDIRu-uhOd0e7RI"
+    },
+    {
+      "countryName": "Paraguay",
+      "countryCode": "PY",
+      "placeId": "ChIJYz3xkDQIXJQR8y5YHWH_-rM"
+    },
+    {
+      "countryName": "Qatar",
+      "countryCode": "QA",
+      "placeId": "ChIJf-jc_zTFRT4RMkArgc-I-hw"
+    },
+    {
+      "countryName": "Réunion",
+      "countryCode": "RE",
+      "placeId": "ChIJO-S4EIF3eCER-erb7ImOf0o"
+    },
+    {
+      "countryName": "Romania",
+      "countryCode": "RO",
+      "placeId": "ChIJw3aJlSb_sUARlLEEqJJP74Q"
+    },
+    {
+      "countryName": "Serbia",
+      "countryCode": "RS",
+      "placeId": "ChIJlYCJ8t8dV0cRXYYjN-pQXgU"
+    },
+    {
+      "countryName": "Russia",
+      "countryCode": "RU",
+      "placeId": "ChIJ-yRniZpWPEURE_YRZvj9CRQ"
+    },
+    {
+      "countryName": "Rwanda",
+      "countryCode": "RW",
+      "placeId": "ChIJ40A451SWwhkRA6HMyyawkHQ"
+    },
+    {
+      "countryName": "Saudi Arabia",
+      "countryCode": "SA",
+      "placeId": "ChIJQSqV5z-z5xURm7YawktQYFk"
+    },
+    {
+      "countryName": "Solomon Islands",
+      "countryCode": "SB",
+      "placeId": "ChIJ0QlQVeBR02gRgClEF6DATLQ"
+    },
+    {
+      "countryName": "Seychelles",
+      "countryCode": "SC",
+      "placeId": "ChIJO62-cP0hXCIR99pJ06DQ0zI"
+    },
+    {
+      "countryName": "Sudan",
+      "countryCode": "SD",
+      "placeId": "ChIJlbFyEMQc2RURNythKkZwv9I"
+    },
+    {
+      "countryName": "Sweden",
+      "countryCode": "SE",
+      "placeId": "ChIJ8fA1bTmyXEYRYm-tjaLruCI"
+    },
+    {
+      "countryName": "Singapore",
+      "countryCode": "SG",
+      "placeId": "ChIJdZOLiiMR2jERxPWrUs9peIg"
+    },
+    {
+      "countryName": "Saint Helena",
+      "countryCode": "SH",
+      "placeId": "ChIJGSYdyRA7WgIRbtxkK1sPceQ"
+    },
+    {
+      "countryName": "Slovenia",
+      "countryCode": "SI",
+      "placeId": "ChIJYYOWXuckZUcRZdTiJR5FQOc"
+    },
+    {
+      "countryName": "Svalbard and Jan Mayen",
+      "countryCode": "SJ",
+      "placeId": "ChIJgQmY0JVjd0URQdKkzJ42A4U"
+    },
+    {
+      "countryName": "Slovakia",
+      "countryCode": "SK",
+      "placeId": "ChIJf8Z8rrlgFEcRfTpysWdha80"
+    },
+    {
+      "countryName": "Sierra Leone",
+      "countryCode": "SL",
+      "placeId": "ChIJQ_OrOhgGAQ8RGfcsx83paVM"
+    },
+    {
+      "countryName": "San Marino",
+      "countryCode": "SM",
+      "placeId": "ChIJeT_m9V_rLBMRECA0gpnzAAA"
+    },
+    {
+      "countryName": "Senegal",
+      "countryCode": "SN",
+      "placeId": "ChIJcbvFs_VywQ4RQFlhmVClRlo"
+    },
+    {
+      "countryName": "Somalia",
+      "countryCode": "SO",
+      "placeId": "ChIJg1vR7KcuHRgRvuXpXM46OZ4"
+    },
+    {
+      "countryName": "Suriname",
+      "countryCode": "SR",
+      "placeId": "ChIJUdXT2dU2CI0RsjYpccDhNxA"
+    },
+    {
+      "countryName": "South Sudan",
+      "countryCode": "SS",
+      "placeId": "ChIJGTE-PbUwGRcRl7y2fmND8Ns"
+    },
+    {
+      "countryName": "São Tomé and Príncipe",
+      "countryCode": "ST",
+      "placeId": "ChIJidiaC_nscBAR6jB2VQwjUWI"
+    },
+    {
+      "countryName": "El Salvador",
+      "countryCode": "SV",
+      "placeId": "ChIJVwZkWaYnY48RMkiFmOsWmm8"
+    },
+    {
+      "countryName": "Sint Maarten",
+      "countryCode": "SX",
+      "placeId": "ChIJw5D41mJuDowRQo8zJsIsi3I"
+    },
+    {
+      "countryName": "Syria",
+      "countryCode": "SY",
+      "placeId": "ChIJp8Y8QdzmGBURIPYqiPRGdYc"
+    },
+    {
+      "countryName": "Eswatini",
+      "countryCode": "SZ",
+      "placeId": "ChIJBw8yR-HO6B4RaXANGC_GPcE"
+    },
+    {
+      "countryName": "Turks and Caicos Islands",
+      "countryCode": "TC",
+      "placeId": "ChIJdWu7vlVfS4kR3sGNAoDHEX4"
+    },
+    {
+      "countryName": "Chad",
+      "countryCode": "TD",
+      "placeId": "ChIJYXNnvXg55xARnIDAzluDYDs"
+    },
+    {
+      "countryName": "French Southern Territories",
+      "countryCode": "TF",
+      "placeId": "ChIJN8QJBD7EFLMRKdDmkEwhirg"
+    },
+    {
+      "countryName": "Togo",
+      "countryCode": "TG",
+      "placeId": "ChIJGVQYE8HhIxARYJPRGjBbrvo"
+    },
+    {
+      "countryName": "Thailand",
+      "countryCode": "TH",
+      "placeId": "ChIJsU1CR_eNTTARAuhXB4gs154"
+    },
+    {
+      "countryName": "Tajikistan",
+      "countryCode": "TJ",
+      "placeId": "ChIJzbO8enN2sTgRtYgZT4QxwyU"
+    },
+    {
+      "countryName": "Tokelau",
+      "countryCode": "TK",
+      "placeId": "ChIJ9x14s6omUnARN5vbbUZicI8"
+    },
+    {
+      "countryName": "Timor-Leste",
+      "countryCode": "TL",
+      "placeId": "ChIJKaHkhgnl_SwRPFvoh4PG5QM"
+    },
+    {
+      "countryName": "Turkmenistan",
+      "countryCode": "TM",
+      "placeId": "ChIJy2y8dFXLZT8RkaRpQWuC3X4"
+    },
+    {
+      "countryName": "Tunisia",
+      "countryCode": "TN",
+      "placeId": "ChIJ4aQWg0SVVRIR75sBqjozhDo"
+    },
+    {
+      "countryName": "Tonga",
+      "countryCode": "TO",
+      "placeId": "ChIJHdCfu0S2k3ERqeJexcrMbfM"
+    },
+    {
+      "countryName": "Turkey",
+      "countryCode": "TR",
+      "placeId": "ChIJcSZPllwVsBQRKl9iKtTb2UA"
+    },
+    {
+      "countryName": "Trinidad and Tobago",
+      "countryCode": "TT",
+      "placeId": "ChIJxbZQY5cHNowRJ_E5xlUoCP8"
+    },
+    {
+      "countryName": "Tuvalu",
+      "countryCode": "TV",
+      "placeId": "ChIJTaCxWbmcwW8RLhIHB2hUZ48"
+    },
+    {
+      "countryName": "Taiwan",
+      "countryCode": "TW",
+      "placeId": "ChIJL1cHXAbzbjQRaVScvwTwEec"
+    },
+    {
+      "countryName": "Tanzania",
+      "countryCode": "TZ",
+      "placeId": "ChIJEaFpSDFRSxgRMMTBSzEXWog"
+    },
+    {
+      "countryName": "Ukraine",
+      "countryCode": "UA",
+      "placeId": "ChIJjw5wVMHZ0UAREED2iIQGAQA"
+    },
+    {
+      "countryName": "Uganda",
+      "countryCode": "UG",
+      "placeId": "ChIJRfmZZJ-mcRcRSUUBQ85VQYc"
+    },
+    {
+      "countryName": "U.S. Outlying Islands",
+      "countryCode": "UM",
+      "placeId": "ChIJBQ-2twOlemQREDZxw68t4QQ"
+    },
+    {
+      "countryName": "United States",
+      "countryCode": "US",
+      "placeId": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw"
+    },
+    {
+      "countryName": "Uruguay",
+      "countryCode": "UY",
+      "placeId": "ChIJCd5f-zoHdZURSlIWYGGWVUo"
+    },
+    {
+      "countryName": "Uzbekistan",
+      "countryCode": "UZ",
+      "placeId": "ChIJsXbWpSCLrjgRIB6Efq1tCso"
+    },
+    {
+      "countryName": "Vatican City",
+      "countryCode": "VA",
+      "placeId": "ChIJPS3UVwqJJRMRsH46sppPCQA"
+    },
+    {
+      "countryName": "St Vincent and Grenadines",
+      "countryCode": "VC",
+      "placeId": "ChIJ94kYLK_R1IkRe-UZfKBYSz0"
+    },
+    {
+      "countryName": "Venezuela",
+      "countryCode": "VE",
+      "placeId": "ChIJAdjLNstTKIwR003VfFjyoNw"
+    },
+    {
+      "countryName": "British Virgin Islands",
+      "countryCode": "VG",
+      "placeId": "ChIJzVNkK5xzBYwRPTvsse5woG0"
+    },
+    {
+      "countryName": "U.S. Virgin Islands",
+      "countryCode": "VI",
+      "placeId": "ChIJuaza8mUQBYwRBRzFGx2JHfk"
+    },
+    {
+      "countryName": "Vietnam",
+      "countryCode": "VN",
+      "placeId": "ChIJXx5qc016FTERvmL-4smwO7A"
+    },
+    {
+      "countryName": "Vanuatu",
+      "countryCode": "VU",
+      "placeId": "ChIJE2CSyF5giW4RaibQvs85gzQ"
+    },
+    {
+      "countryName": "Wallis and Futuna",
+      "countryCode": "WF",
+      "placeId": "ChIJPUsabgaxyHERGwrSj-wYyRY"
+    },
+    {
+      "countryName": "Samoa",
+      "countryCode": "WS",
+      "placeId": "ChIJAxDsZKMTpXERcnhhdJYMh6Y"
+    },
+    {
+      "countryName": "Kosovo",
+      "countryCode": "XK",
+      "placeId": "ChIJV9ZNUQlAUxMR9svXjuodG7c"
+    },
+    {
+      "countryName": "Yemen",
+      "countryCode": "YE",
+      "placeId": "ChIJX7w0fKzbAxYRrneufjcp8ZI"
+    },
+    {
+      "countryName": "Mayotte",
+      "countryCode": "YT",
+      "placeId": "ChIJu43y3DMOCiIRSyr-lWcXMv8"
+    },
+    {
+      "countryName": "South Africa",
+      "countryCode": "ZA",
+      "placeId": "ChIJURLu2YmmNBwRoOikHwxjXeg"
+    },
+    {
+      "countryName": "Zambia",
+      "countryCode": "ZM",
+      "placeId": "ChIJcQv8_KX0QBkRRT5Yfqz5n_E"
+    },
+    {
+      "countryName": "Zimbabwe",
+      "countryCode": "ZW",
+      "placeId": "ChIJYXGxBuekMRkR7r_LxV84wKE"
+    }
+  ]
